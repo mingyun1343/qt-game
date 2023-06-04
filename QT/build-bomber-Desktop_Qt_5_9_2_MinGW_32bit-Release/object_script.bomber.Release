@@ -1,0 +1,14 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\mybutton.o
+./release\choosewin.o
+./release\gamewin.o
+./release\man.o
+./release\qrc_res.o
+./release\moc_mainwindow.o
+./release\moc_mybutton.o
+./release\moc_choosewin.o
+./release\moc_gamewin.o
+./release\moc_man.o
+);

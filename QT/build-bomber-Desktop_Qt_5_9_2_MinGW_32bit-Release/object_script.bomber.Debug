@@ -1,0 +1,14 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\mybutton.o
+./debug\choosewin.o
+./debug\gamewin.o
+./debug\man.o
+./debug\qrc_res.o
+./debug\moc_mainwindow.o
+./debug\moc_mybutton.o
+./debug\moc_choosewin.o
+./debug\moc_gamewin.o
+./debug\moc_man.o
+);

@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>temp/b.png</file>
+        <file>temp/d1.png</file>
+        <file>temp/d1x.png</file>
+        <file>temp/d2.png</file>
+        <file>temp/d2x.png</file>
+        <file>temp/d3.png</file>
+        <file>temp/d3x.png</file>
+        <file>temp/d4.png</file>
+        <file>temp/d4x.png</file>
+        <file>temp/l.png</file>
+        <file>temp/r.png</file>
+        <file>temp/t.png</file>
+        <file>temp/TABG[8DS8%RRXB_M]Y~WHZY.png</file>
+        <file>temp/background.png</file>
+    </qresource>
+</RCC>
